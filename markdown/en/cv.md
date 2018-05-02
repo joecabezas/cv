@@ -24,7 +24,9 @@ Languages
 Interests
 
 	Particularly interested in any aspect involving computer engineering like AI research and neural networks.
-	As hobbie, I like to study about cryptography, mounting home servers (linux based), portable computing, raspberry pi, 3d printing and general hacking, solving Rubik's cube and write tutorials (most of them in http://joecabezas.tumblr.com/).
+	As hobbie, I like to study about cryptography, mounting home servers (linux based), portable computing,
+	raspberry pi, 3d printing and general hacking, solving Rubik's cube and write tutorials
+	(most of them in http://joecabezas.tumblr.com/).
 
 Technical Skills
 
