@@ -61,10 +61,13 @@ Experience
 			RSpec, I mainly used Ruby for coding.
 
 			* [2016] Part of a team responsible for creating a new feature for the mobile app, we have to
-			create services using different technologies like AWS, DynamoDB and frameworks like Spring, we developed highly scalable services and fully testable code, using technologies like Junit, EasyMock, Mockito, Hamcrest, I mainly used Java for coding.
+			create services using different technologies like AWS, DynamoDB and frameworks like Spring, we
+			developed highly scalable services and fully testable code, using technologies like Junit,
+			EasyMock, Mockito, Hamcrest, I mainly used Java for coding.
 
 			* [2018] Launched Amazon Spark [www.amazon.com/spark], backend developer, publishing team, which
-			is responsible of all writing operations, distribution, processing, workflows orchestration, ingestion from other platforms, realtime data processing using AWS Lambda, interactions, metrics.
+			is responsible of all writing operations, distribution, processing, workflows orchestration,
+			ingestion from other platforms, realtime data processing using AWS Lambda, interactions, metrics.
 
 	2011/09..2015/01
 		Engineer
