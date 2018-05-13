@@ -116,8 +116,8 @@ Experience
 				notifications, UI framework and rendering.
 
 			* iBlast Moki 2
-				Game Developer Engineer, Porting from iOS to Android using Mobage Platform (ngCore) in Javascript, porting of
-				Physics Engine.
+				Game Developer Engineer, Porting from iOS to Android using Mobage Platform (ngCore) in
+				Javascript, porting of Physics Engine.
 
 			* Pocket Frogs
 				Internationalization interface.
