@@ -6,7 +6,6 @@ Joe Cabezas Campos
 
 Contact
 
-	Mobile: (+1) (206) 383 3538
 	E-Mail: joe.cabezas@gmail.com
 
 Education
@@ -24,9 +23,9 @@ Languages
 Interests
 
 	Particularly interested in any aspect involving computer engineering like AI research and neural networks.
-	As hobbie, I like to study about cryptography, mounting home servers (linux based), portable computing,
-	raspberry pi, 3d printing and general hacking, solving Rubik's cube and write tutorials
-	(most of them in http://joecabezas.tumblr.com/).
+	As hobbies, I like to teach programming to people in my free time, mount home servers (linux based), work
+	with Raspberry pi, 3d printing and general hacking, contributing to open source projects, speed solving
+	Rubik's cube and write tutorials (most of them in http://joecabezas.tumblr.com/).
 
 Technical Skills
 
@@ -34,19 +33,36 @@ Technical Skills
 		Linux, MacOS
 
 	Programming Languages
-		Java, C#, Ruby, JavaScript, Python, C++, AS3, PHP.
+		Java, C#, Ruby, JavaScript, Python(2,7, 3.4+), C++, AS3, PHP
 
 	Control Version Systems
-		Git, Mercurial, SVN.
+		Git, Mercurial, SVN
 
 	Game Development Technologies
-		Unity3D (using C#), Mobage (ngCore), PureMVC.
+		Unity3D (using C#), Mobage (ngCore), PureMVC,
+		Shader Forge (Unity3D), Unity Networking (UNET HLAPI)
 
 	Web Development Frameworks
-		Ruby on Rails, CakePHP, CodeIgniter.
+		Ruby on Rails, CakePHP, CodeIgniter
 
 	Databases
-		PostgreSQL, MySQL, DynamoDB, Redshift
+		PostgreSQL, AWS Redshift, AWS DynamoDB, MySQL, SQLite
+
+Open Source Contributions
+
+	websocket-client
+		websocket-client module is WebSocket client for python. This provide the low level APIs for
+		WebSocket. All APIs are the synchronous functions.
+
+		I made some tests and provided bug reports, used Python.
+
+	Openkore
+		OpenKore is an custom client and intelligent automated assistant for Ragnarok Online.
+		It is a free, open source and cross-platform program (Linux, Windows and MacOS are supported).
+
+		I reported a bug in code and submitted a pull request which was accepted and made part of the
+		main code, also, I developed a new plugin for websocket communication between instances,
+		used Perl.
 
 Experience
 
@@ -65,40 +81,45 @@ Experience
 			developed highly scalable services and fully testable code, using technologies like Junit,
 			EasyMock, Mockito, Hamcrest, I mainly used Java for coding.
 
-			* [2018] Launched Amazon Spark [www.amazon.com/spark], backend developer, publishing team, which
-			is responsible of all writing operations, distribution, processing, workflows orchestration,
-			ingestion from other platforms, realtime data processing using AWS Lambda, interactions, metrics.
+			* [2018] Launched Amazon Spark [www.amazon.com/spark]
+
+			Amazon Spark is a place to discover things from people who share your interests. Whether you’re
+			looking for inspiration for home décor or seeking advice for the best long-distance running
+			shoes, Spark makes it easy to discover (and shop) stories and ideas from a community that likes
+			what you like.
+
+			I was part of the backend engineering team, which is responsible of all writing operations,
+			distribution, processing, workflows orchestration, ingestion from other platforms, realtime
+			data processing using AWS Lambda, interactions, moderation, metrics, and business reports.
 
 	2011/09..2015/01
 		Engineer
 		Atakama Labs (studio of DeNA Japan)
 		Projects:
 
-			* Star Wars: Galactic Defense:
-				Meta-game development engineer, generalized skills system,
-				UI scheme, frame based animation system developer using meshes, camera	director developer.
+			* Star Wars: Galactic Defense
+				Game Developer Engineer, constructed a generalized skills system, UI scheme, frame
+				based animation system developer using meshes, camera director developer.
 
-			* Royal Defenders:
-				Meta-game development engineer, tiled maps importer system programmer using
-				open source software, programmer of the path planning algorithm implementation, rendering
-				pipeline developer, UI scheme, frame based animation system developer using meshes, camera
-				director developer.
+			* Royal Defenders
+				Game Developer Engineer, tiled maps importer system programmer using open source software,
+				programmer of the path planning algorithm implementation, rendering pipeline developer,
+				UI scheme, frame based animation system developer using meshes, camera director developer.
 
-			* Dungeons And Dragons:
-				Arena of War: Meta-game development engineer, created the Input
-				Managment System, UI Scheme, 3D-2D Transformations for In-Game UI, Camera Director and Special
-				Effects.
+			* Dungeons And Dragons: Arena of War
+				Game Developer engineer, created the input management system, UI scheme, 3D-2D
+				transformations for the in-Game UI, camera director and special effects specialist.
 
-			* Backyard Monsters Unleashed:
-				Reimplementation of game in Javascript from scratch, made the
-				critical pieces of the base framework, like maps, isometric API, event driven notifications,
-				UI framework and rendering.
+			* Backyard Monsters Unleashed
+				Game Developer Engineer, worked in the reimplementation of game in Javascript from scratch,
+				made the critical pieces of the base framework, like maps, isometric API, event driven
+				notifications, UI framework and rendering.
 
-			* iBlast Moki 2:
-				Porting from iOS to Android using Mobage Platform (ngCore) in Javascript,
-				porting of Physics Engine.
+			* iBlast Moki 2
+				Game Developer Engineer, Porting from iOS to Android using Mobage Platform (ngCore) in Javascript, porting of
+				Physics Engine.
 
-			* Pocket Frogs:
+			* Pocket Frogs
 				Internationalization interface.
 
 	2011/03..2011/12
