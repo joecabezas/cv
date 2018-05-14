@@ -22,9 +22,6 @@ Languages
 
 Technical Skills
 
-	Operative Systems
-		Linux, MacOS
-
 	Programming Languages
 		Java, C#, Ruby, JavaScript, Python(2,7, 3.4+), C++, AS3, PHP
 
@@ -110,7 +107,7 @@ Open Source Contributions
 		OpenKore is an custom client and intelligent automated assistant for Ragnarok Online.
 		It is a free, open source and cross-platform program (Linux, Windows and MacOS are supported).
 
-Work Experience Details
+Projects Details
 
 	2015/03..Today
 		Software Development Engineer
