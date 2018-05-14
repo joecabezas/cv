@@ -20,13 +20,6 @@ Languages
 	Spanish, Native.
 	English, Advanced, TOEIC Certifications (2007,2010).
 
-Interests
-
-	Particularly interested in any aspect involving computer engineering like AI research and neural networks.
-	As hobbies, I like to teach programming to people in my free time, mount home servers (linux based), work
-	with Raspberry pi, 3d printing and general hacking, contributing to open source projects, speed solving
-	Rubik's cube and write tutorials (most of them in http://joecabezas.tumblr.com/).
-
 Technical Skills
 
 	Operative Systems
@@ -48,23 +41,76 @@ Technical Skills
 	Databases
 		PostgreSQL, AWS Redshift, AWS DynamoDB, MySQL, SQLite
 
+Work  Experience
+
+	2015/03..Today
+		Software Developer Engineer
+		Amazon, Seattle, USA
+
+	2011/09..2015/01
+		Software Developer Engineer
+		Atakama Labs (studio of DeNA Japan)
+
+	2011/03..2011/12
+		Graduate Teaching Assistant.
+		Artificial Inteligence.
+		Universidad Tecnica Federico Santa Maria.
+
+	2011/02..2011/03
+		AS3, PHP Programmer.
+		Christys Hats.
+
+	2011/01..2011/02
+		PHP Programmer.
+		Bitbang Inc.
+
+	2010/06..2011/12
+		Research student for ALMA Project at Computer Systems Research Group (CSRG)
+		Member of the Artificial Intelligence in Astronomy Team (AIA)
+		Created a running environment for the array scheduler using evolutive algorithms.
+		(C++, Python)
+		Universidad Tecnica Federico Santa Maria.
+
+	2010/04..2010/06
+		AS3, PHP Programmer.
+		Burbano Interactive.
+
+	2010/03..2010/06
+		AS3 Senior Programmer.
+		Mancha Diseño Limitada.
+
+	2009/10..2010/02
+		AS3 Programmer.
+		OQO diseño.
+
+	2009/09..2009/10
+		JavaScript Programmer.
+		Mancha Diseño Limitada.
+
+	2009/02..2009/09
+		AS3, PHP Programmer.
+		Mancha Diseño Limitada.
+
+	2008/01..2008/02
+		VB for Applications Program Developer.
+		Metro S.A. (Chile)
+
+	2006/03..2006/12
+		Graduate Teaching Assistant.
+		Calculus, Physics, Software Design, Data Structures.
+		Universidad Tecnica Federico Santa Maria.
+
 Open Source Contributions
 
 	websocket-client
 		websocket-client module is WebSocket client for python. This provide the low level APIs for
 		WebSocket. All APIs are the synchronous functions.
 
-		I made some tests and provided bug reports, used Python.
-
 	Openkore
 		OpenKore is an custom client and intelligent automated assistant for Ragnarok Online.
 		It is a free, open source and cross-platform program (Linux, Windows and MacOS are supported).
 
-		I reported a bug in code and submitted a pull request which was accepted and made part of the
-		main code, also, I developed a new plugin for websocket communication between instances,
-		used Perl.
-
-Experience
+Work Experience Details
 
 	2015/03..Today
 		Software Development Engineer
@@ -122,60 +168,9 @@ Experience
 			* Pocket Frogs
 				Internationalization interface.
 
-	2011/03..2011/12
-		Graduate Teaching Assistant.
-		Artificial Inteligence.
-		Universidad Tecnica Federico Santa Maria.
+Interests
 
-	2011/02..2011/03
-		AS3, PHP Programmer.
-		Christys Hats.
-		Web Developer [www.christyshats.com]
-
-	2011/01..2011/02
-		PHP Programmer.
-		Bitbang Inc.
-		Web Developer [www.tupasionalextremo.cl]
-
-	2010/06..2011/12
-		Research student for ALMA Project at Computer Systems Research Group (CSRG)
-		Member of the Artificial Intelligence in Astronomy Team (AIA)
-		Task: Create a running environment for the array scheduler using evolutive algorithms.
-		(C++, Python)
-		Universidad Tecnica Federico Santa Maria.
-		https://csrg.inf.utfsm.cl/twiki4/bin/view/Main/JoeCabezas
-
-	2010/04..2010/06
-		AS3, PHP Programmer.
-		Burbano Interactive.
-		Web Developer for Maggi
-
-	2010/03..2010/06
-		AS3 Senior Programmer.
-		Mancha Diseño Limitada.
-		Web Developer [www.parspectiva.cl]
-
-	2009/10..2010/02
-		AS3 Programmer.
-		OQO diseño.
-		Web Developer [www.escueladechile.cl]
-
-	2009/09..2009/10
-		JavaScript Programmer.
-		Mancha Diseño Limitada.
-		Web Developer [www.comgrap.cl]
-
-	2009/02..2009/09
-		AS3, PHP Programmer.
-		Mancha Diseño Limitada.
-		Web Developer [www.cosmoplas.cl]
-
-	2008/01..2008/02
-		VB for Applications Program Developer.
-		Salaries Calculator Aplication for Metro train drivers.
-		Metro S.A. (Chile)
-
-	2006/03..2006/12
-		Graduate Teaching Assistant.
-		Calculus, Physics, Software Design, Data Structures.
-		Universidad Tecnica Federico Santa Maria.
+	Particularly interested in any aspect involving computer engineering like AI research and neural networks.
+	As hobbies, I like to teach programming to people in my free time, mount home servers (linux based), work
+	with Raspberry pi, 3d printing and general hacking, contributing to open source projects, speed solving
+	Rubik's cube and write tutorials (most of them in http://joecabezas.tumblr.com/).
