@@ -80,14 +80,15 @@ Projects Details
 		Amazon, Seattle, USA
 		Projects:
 
-			* [2015] Part of a team responsible for creating a new feature from scratch, we used technologies
-			like AWS, DynamoDB, Redshift, Ruby on Rails and front-end technologies like Jquery and Haml. We
-			developed highly scalable services and fully testable code, using technologies like	RSpec.
+			* [2015] Part of a team responsible for creating a new feature from scratch, we used
+			technologies like AWS, DynamoDB, Redshift, Ruby on Rails and front-end technologies like
+			Jquery and Haml. We developed highly scalable services and fully testable code, using
+			technologies like RSpec.
 
-			* [2016] Part of a team responsible for creating a new feature for the Amazon Mobile App, I
-			created services using technologies like AWS, DynamoDB and frameworks like Spring, I developed
-			highly scalable services and fully testable code, using technologies like JUnit, Mockito,
-			EasyMock, Hamcrest.
+			* [2016] Part of a team responsible for creating a new feature for the Amazon Mobile App,
+			I created highly scalable services using technologies like AWS, DynamoDB and frameworks
+			like Spring with fully testable code, using technologies like JUnit, Mockito, EasyMock,
+			and Hamcrest.
 
 			* [2018] Launched Amazon Spark [www.amazon.com/spark]
 
@@ -97,9 +98,9 @@ Projects Details
 			what you like.
 
 			I was part of the backend engineering team, I worked in the workflows systems handling the
-			async nature of the user's interactions, I owned the metrics and analytic pipeline and worked
-			with pm's to measure the business impact. I worked on moderation pieces and developed a
-			framework for continuous deployment for AWS Lambdas using multiple accounts for different
+			async nature of the user's interactions, I owned the metrics and analytic pipeline and
+			worked with pm's to measure the business impact. I worked on moderation pieces and developed
+			a framework for continuous deployment for AWS Lambdas using multiple accounts for different
 			deployment stages.
 
 	Sep 2011 - Jan 2015
@@ -118,17 +119,17 @@ Projects Details
 
 			* Dungeons And Dragons: Arena of War
 				Game Developer engineer, created the input management system, UI scheme, 3D-2D
-				transformations for the in-Game UI, camera director and special effects specialist based
-				on camera manipulations and shaders.
+				transformations for the in-Game UI, camera director and special effects specialist
+				based on camera manipulations and shaders.
 
 			* Backyard Monsters Unleashed
-				Game Developer Engineer, worked in the reimplementation of game in Javascript from scratch,
-				made the critical pieces of the base framework, like maps, isometric API, event driven
-				notifications, UI framework and rendering.
+				Game Developer Engineer, worked in the reimplementation of game in Javascript from
+				scratch, made the critical pieces of the base framework, like maps, isometric API,
+				event driven notifications, UI framework and rendering.
 
 			* iBlast Moki 2
-				Game Developer Engineer, Porting from iOS to Android using Mobage Platform (ngCore) in
-				Javascript, porting of Physics Engine.
+				Game Developer Engineer, Porting from iOS to Android using Mobage Platform (ngCore)
+				in Javascript, porting of Physics Engine.
 
 Interests
 
