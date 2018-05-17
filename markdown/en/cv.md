@@ -10,20 +10,15 @@ Contact
 
 Education
 
-	2005/03..2012/12
+	Mar 2005 - Dec 2012
 		Software Engineer
 		B.S. in Computer Science.
 		Universidad Tecnica Federico Santa Maria
 
-Languages
-
-	Spanish, Native.
-	English, Advanced, TOEIC Certifications (2007,2010).
-
 Technical Skills
 
 	Programming Languages
-		Java, C#, Ruby, JavaScript, Python(2,7, 3.4+), C++, AS3, PHP
+		Java, C#, Ruby, JavaScript, Python, C++, AS3, PHP
 
 	Control Version Systems
 		Git, Mercurial, SVN
@@ -38,91 +33,61 @@ Technical Skills
 	Databases
 		PostgreSQL, AWS Redshift, AWS DynamoDB, MySQL, SQLite
 
-Work  Experience
+Relevant Work Experience
 
-	2015/03..Today
+	Mar 2015 - Today
 		Software Developer Engineer
 		Amazon, Seattle, USA
 
-	2011/09..2015/01
+	Sep 2011 - Jan 2015
 		Software Developer Engineer
 		Atakama Labs (studio of DeNA Japan)
 
-	2011/03..2011/12
+	Mar 2011 - Dec 2011
 		Graduate Teaching Assistant.
 		Artificial Inteligence.
 		Universidad Tecnica Federico Santa Maria.
 
-	2011/02..2011/03
-		AS3, PHP Programmer.
-		Christys Hats.
-
-	2011/01..2011/02
-		PHP Programmer.
-		Bitbang Inc.
-
-	2010/06..2011/12
+	Jun 2010 - Dec 2011
 		Research student for ALMA Project at Computer Systems Research Group (CSRG)
 		Member of the Artificial Intelligence in Astronomy Team (AIA)
 		Created a running environment for the array scheduler using evolutive algorithms.
 		(C++, Python)
 		Universidad Tecnica Federico Santa Maria.
 
-	2010/04..2010/06
-		AS3, PHP Programmer.
-		Burbano Interactive.
-
-	2010/03..2010/06
-		AS3 Senior Programmer.
-		Mancha Diseño Limitada.
-
-	2009/10..2010/02
-		AS3 Programmer.
-		OQO diseño.
-
-	2009/09..2009/10
-		JavaScript Programmer.
-		Mancha Diseño Limitada.
-
-	2009/02..2009/09
-		AS3, PHP Programmer.
-		Mancha Diseño Limitada.
-
-	2008/01..2008/02
-		VB for Applications Program Developer.
-		Metro S.A. (Chile)
-
-	2006/03..2006/12
-		Graduate Teaching Assistant.
-		Calculus, Physics, Software Design, Data Structures.
-		Universidad Tecnica Federico Santa Maria.
-
 Open Source Contributions
+
+	JsFormat
+		JsFormat is a javascript formatting plugin for Sublime Text 2. It uses jsbeautifier to
+		format whole js or json files, or the selected portion(s).
+		I created a new option I needed to allow spaces before line starters and make it the
+		default option for retro compatibility.
 
 	websocket-client
 		websocket-client module is WebSocket client for python. This provide the low level APIs for
-		WebSocket. All APIs are the synchronous functions.
+		WebSocket. All APIs are the synchronous functions. I debugged the library using Bash for
+		Windows.
 
 	Openkore
 		OpenKore is an custom client and intelligent automated assistant for Ragnarok Online.
 		It is a free, open source and cross-platform program (Linux, Windows and MacOS are supported).
+		I Fixed a bug in the macro system caused by empty matches in the regular expressions.
 
 Projects Details
 
-	2015/03..Today
+	Mar 2015 - Today
 		Software Development Engineer
 		Amazon, Seattle, USA
 		Projects:
 
 			* [2015] Part of a team responsible for creating a new feature from scratch, we used technologies
-			like AWS, DynamoDB, Redshift, and frameworks like Ruby on Rails and front-end like Jquery
-			and Haml, we developed highly scalable services and fully testable code, using technologies like
-			RSpec, I mainly used Ruby for coding.
+			like AWS, DynamoDB, Redshift, Ruby on Rails and front-end technologies like Jquery and Haml. We
+			developed highly scalable services and fully testable code, using technologies like	RSpec.
 
-			* [2016] Part of a team responsible for creating a new feature for the mobile app, we have to
-			create services using different technologies like AWS, DynamoDB and frameworks like Spring, we
-			developed highly scalable services and fully testable code, using technologies like Junit,
-			EasyMock, Mockito, Hamcrest, I mainly used Java for coding.
+			* [2016] Part of a team responsible for creating a new feature for the Amazon Mobile App, I
+			created services using technologies like AWS, DynamoDB and frameworks like Spring, I developed
+			highly scalable services and fully testable code, using technologies like JUnit, Mockito,
+			EasyMock, Hamcrest.
 
 			* [2018] Launched Amazon Spark [www.amazon.com/spark]
 
@@ -131,27 +96,30 @@ Projects Details
 			shoes, Spark makes it easy to discover (and shop) stories and ideas from a community that likes
 			what you like.
 
-			I was part of the backend engineering team, which is responsible of all writing operations,
-			distribution, processing, workflows orchestration, ingestion from other platforms, realtime
-			data processing using AWS Lambda, interactions, moderation, metrics, and business reports.
+			I was part of the backend engineering team, I worked in the workflows systems handling the
+			async nature of the user's interactions, I owned the metrics and analytic pipeline and worked
+			with pm's to measure the business impact. I worked on moderation pieces and developed a
+			framework for continuous deployment for AWS Lambdas using multiple accounts for different
+			deployment stages.
 
-	2011/09..2015/01
+	Sep 2011 - Jan 2015
 		Engineer
 		Atakama Labs (studio of DeNA Japan)
 		Projects:
 
 			* Star Wars: Galactic Defense
-				Game Developer Engineer, constructed a generalized skills system, UI scheme, frame
+				Game Developer Engineer, I developed the Generalized Skills System, UI scheme, frame
 				based animation system developer using meshes, camera director developer.
 
 			* Royal Defenders
-				Game Developer Engineer, tiled maps importer system programmer using open source software,
-				programmer of the path planning algorithm implementation, rendering pipeline developer,
-				UI scheme, frame based animation system developer using meshes, camera director developer.
+				Game Developer Engineer, tiled maps importer system using open source software,
+				I developed the path planning algorithm implementation, the rendering pipeline,	UI
+				scheme, frame based animation system developer using meshes, camera director developer.
 
 			* Dungeons And Dragons: Arena of War
 				Game Developer engineer, created the input management system, UI scheme, 3D-2D
-				transformations for the in-Game UI, camera director and special effects specialist.
+				transformations for the in-Game UI, camera director and special effects specialist based
+				on camera manipulations and shaders.
 
 			* Backyard Monsters Unleashed
 				Game Developer Engineer, worked in the reimplementation of game in Javascript from scratch,
@@ -161,9 +129,6 @@ Projects Details
 			* iBlast Moki 2
 				Game Developer Engineer, Porting from iOS to Android using Mobage Platform (ngCore) in
 				Javascript, porting of Physics Engine.
-
-			* Pocket Frogs
-				Internationalization interface.
 
 Interests
 
