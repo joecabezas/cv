@@ -70,10 +70,10 @@ Relevant Projects Details
 
             * [2018] In response to customers' demand for automated decision-making based on candidate
             records, I initiated the development of the Assess Project. Within a year, the project emerged
-            as the flagship product of the company, leading to the establishment of a dedicated team. In 2020
-            Assess product unblocked over 1.5 million candidates, 96.5% of those people were determined to be
-            Eligible by Checkr Assess, it lowered our customers adjudication costs by 90% and reduced the
-            adjudication times by 70%.
+            as the flagship product of the company, leading to the establishment of a dedicated team, I
+            onboarded and mentored 4 engineers to join the team. In 2020 Assess product unblocked over 1.5
+            million candidates, 96.5% of those people were determined to be Eligible by Checkr Assess, it
+            lowered our customers adjudication costs by 90% and reduced the adjudication times by 70%.
             (my name is mentioned in this article)
             https://checkr.com/blog/how-checkr-assess-can-help-you-convert-more-candidates-through-your-funnel
             https://checkr.com/blog/3-strategies-for-reducing-talent-acquisition-costs

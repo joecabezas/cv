@@ -72,9 +72,10 @@ Detalles de Proyectos Relevantes
             * [2018] En respuesta a la demanda de los clientes de tomar decisiones automatizadas basadas en
             registros de candidatos, inicié el desarrollo del Proyecto Assess. En un año, el proyecto se
             convirtió en el producto estrella de la empresa, lo que llevó a la creación de un equipo
-            dedicado. En 2020, el producto Assess desbloqueó más de 1.5 millones de candidatos, el 96.5% de
-            esas personas fueron determinadas como elegibles por Checkr Assess, lo que redujo los costos de
-            adjudicación de nuestros clientes en un 90% y disminuyó los tiempos de adjudicación en un 70%.
+            dedicado, del cual entrene a 4 ingenieros para unirse. En 2020, el producto Assess desbloqueó más
+            de 1.5 millones de candidatos, el 96.5% de esas personas fueron determinadas como elegibles por
+            Checkr Assess, lo que redujo los costos de adjudicación de nuestros clientes en un 90% y disminuyó
+            los tiempos de adjudicación en un 70%.
             (mi nombre se menciona en este artículo)
             https://checkr.com/blog/how-checkr-assess-can-help-you-convert-more-candidates-through-your-funnel
             https://checkr.com/blog/3-strategies-for-reducing-talent-acquisition-costs
