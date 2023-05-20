@@ -160,7 +160,7 @@ Interests
     time, my personal projects on GitHub reflect my diverse interests including electronics, embeded systems,
     robotics, home automation, memory competition, rapid maths, soroban, Vim, video games development,
     Chrome extensions, hacking, artificial intelligence, computer vision, 3d printing coding, raspberry pi,
-    home servers, data logging and many others.
+    home self-hosted servers, data logging and many others.
 
     I share some of my personal projects on my blog: https://blog.k014.net/
     which is also open source: https://github.com/joecabezas/joecabezas.github.io
