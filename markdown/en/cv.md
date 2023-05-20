@@ -1,6 +1,3 @@
-Resume
-================
-
 Joe Cabezas Campos
 ------------------
 
