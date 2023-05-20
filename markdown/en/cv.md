@@ -18,24 +18,31 @@ Education
 Technical Skills
 
 	Programming Languages
-		Java, C#, Ruby, JavaScript, Python, C++, AS3, PHP
+		Java, Ruby, JavaScript, Typescript, Python, C#, C++, AS3, PHP
 
-	Control Version Systems
-		Git, Mercurial, SVN
+	Web Development Technologies
+        Backend:
+            Ruby on Rails, CakePHP, CodeIgniter, Kafka, Sidekiq, HAML
 
-	Game Development Technologies
-		Unity3D (using C#), Mobage (ngCore), PureMVC,
-		Shader Forge (Unity3D), Unity Networking (UNET HLAPI)
+        Frontend:
+            ReactJS, Bootstrap, MaterialUI, IBM's Carbon Design System
 
-	Web Development Frameworks
-		Ruby on Rails, CakePHP, CodeIgniter
+        Devops Technologies
+            Kubernetes, Helm, AWS EKS, Google GKE, Docker, ContainerD
 
 	Databases
-		PostgreSQL, AWS Redshift, AWS DynamoDB, MySQL, SQLite
+		PostgreSQL, AWS Redshift, AWS DynamoDB, MySQL, SQLite, MongoDB, Redis, InfluxDB
+
+	Game Development Technologies
+		Unity3D (C#), Shader Forge (Unity3D), Unity Networking (UNET HLAPI)
 
 Relevant Work Experience
 
-	Mar 2015 - Today
+	Aug 2018 - Today
+		Senior Software Engineer
+		Checkr, San Francisco, USA
+
+	Mar 2015 - Aug 2018
 		Software Developer Engineer
 		Amazon, Seattle, USA
 
@@ -55,30 +62,34 @@ Relevant Work Experience
 		(C++, Python)
 		Universidad Tecnica Federico Santa Maria.
 
-Open Source Contributions
+Relevant Projects Details
 
-	JsFormat
-		JsFormat is a javascript formatting plugin for Sublime Text 2. It uses jsbeautifier to
-		format whole js or json files, or the selected portion(s).
-		I created a new option I needed to allow spaces before line starters and make it the
-		default option for retro compatibility.
+    Aug 1028 - Today
+        Senior Software Engineer
+        Checkr, San Francisco, USA
 
-	websocket-client
-		websocket-client module is WebSocket client for python. This provide the low level APIs for
-		WebSocket. All APIs are the synchronous functions. I debugged the library using Bash for
-		Windows.
+            * [2018] In response to customers' demand for automated decision-making based on candidate
+            records, I initiated the development of the Assess Project. Within a year, the project emerged
+            as the flagship product of the company, leading to the establishment of a dedicated team. In 2020
+            Assess product unblocked over 1.5 million candidates, 96.5% of those people were determined to be
+            Eligible by Checkr Assess, it lowered our customers adjudication costs by 90% and reduced the
+            adjudication times by 70%.
+            (my name is mentioned in this article)
+            https://checkr.com/blog/how-checkr-assess-can-help-you-convert-more-candidates-through-your-funnel
+            https://checkr.com/blog/3-strategies-for-reducing-talent-acquisition-costs
+            https://checkr.com/products/assess
 
-	Openkore
-		OpenKore is an custom client and intelligent automated assistant for Ragnarok Online.
-		It is a free, open source and cross-platform program (Linux, Windows and MacOS are supported).
-		I Fixed a bug in the macro system caused by empty matches in the regular expressions.
+            * [2021] I conducted an in-depth exploration of the underlying rules check engine and recommended
+            the development of our own engine which is soon to be released as open source. As part of this
+            initiative, I designed a domain-specific language (DSL) named JsonLisp, which enables customers
+            to formulate rules using modern language features and is JSON compatible. The engine's
+            implementation resulted in a 600% improvement in processing times and empowered Assess product
+            customers to create highly intricate rules.
+            In recognition for the improvements of the engine and the language proposed I got promoted in 2021
 
-Projects Details
-
-	Mar 2015 - Today
+	Mar 2015 - Aug 2018
 		Software Development Engineer
 		Amazon, Seattle, USA
-		Projects:
 
 			* [2015] Part of a team responsible for creating a new feature from scratch, we used
 			technologies like AWS, DynamoDB, Redshift, Ruby on Rails and front-end technologies like
@@ -90,8 +101,7 @@ Projects Details
 			like Spring with fully testable code, using technologies like JUnit, Mockito, EasyMock,
 			and Hamcrest.
 
-			* [2018] Launched Amazon Spark [www.amazon.com/spark]
-
+			* [2018] Launched Amazon Spark
 			Amazon Spark is a place to discover things from people who share your interests. Whether you’re
 			looking for inspiration for home décor or seeking advice for the best long-distance running
 			shoes, Spark makes it easy to discover (and shop) stories and ideas from a community that likes
@@ -102,11 +112,11 @@ Projects Details
 			worked with pm's to measure the business impact. I worked on moderation pieces and developed
 			a framework for continuous deployment for AWS Lambdas using multiple accounts for different
 			deployment stages.
+			https://www.amazon.com/spark (moved to interests)
 
 	Sep 2011 - Jan 2015
 		Engineer
 		Atakama Labs (studio of DeNA Japan)
-		Projects:
 
 			* Star Wars: Galactic Defense
 				Game Developer Engineer, I developed the Generalized Skills System, UI scheme, frame
@@ -131,9 +141,26 @@ Projects Details
 				Game Developer Engineer, Porting from iOS to Android using Mobage Platform (ngCore)
 				in Javascript, porting of Physics Engine.
 
+Open Source Contributions
+
+	JsFormat
+		JsFormat is a javascript formatting plugin for Sublime Text 2. It uses jsbeautifier to
+		format whole js or json files, or the selected portion(s).
+		I created a new option I needed to allow spaces before line starters and make it the
+		default option for retro compatibility.
+
+	Openkore
+		OpenKore is an custom client and intelligent automated assistant for Ragnarok Online.
+		It is a free, open source and cross-platform program (Linux, Windows and MacOS are supported).
+		I Fixed a bug in the macro system caused by empty matches in the regular expressions.
+
 Interests
 
-	Particularly interested in any aspect involving computer engineering like AI research and neural networks.
-	As hobbies, I like to teach programming to people in my free time, mount home servers (linux based), work
-	with Raspberry pi, 3d printing and general hacking, contributing to open source projects, speed solving
-	Rubik's cube and write tutorials (most of them in http://joecabezas.tumblr.com/).
+    I am passionate learner who enjoys studying, sharing my knowledge and teaching programming in my free
+    time, my personal projects on GitHub reflect my diverse interests including electronics, embeded systems,
+    robotics, home automation, memory competition, rapid maths, soroban, Vim, video games development,
+    Chrome extensions, hacking, artificial intelligence, computer vision, 3d printing coding, raspberry pi,
+    home servers, data logging and many others.
+
+    I share some of my personal projects on my blog: https://blog.k014.net/
+    which is also open source: https://github.com/joecabezas/joecabezas.github.io
