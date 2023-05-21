@@ -61,7 +61,7 @@ Relevant Work Experience
 
 Relevant Projects Details
 
-    Aug 1028 - Today
+    Aug 2018 - Today
         Senior Software Engineer
         Checkr, San Francisco, USA
 
