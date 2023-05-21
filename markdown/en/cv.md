@@ -49,7 +49,7 @@ Relevant Work Experience
 
 	Mar 2011 - Dec 2011
 		Graduate Teaching Assistant.
-		Artificial Inteligence.
+		Artificial Intelligence.
 		Universidad Tecnica Federico Santa Maria.
 
 	Jun 2010 - Dec 2011
@@ -70,7 +70,7 @@ Relevant Projects Details
             as the flagship product of the company, leading to the establishment of a dedicated team, I
             onboarded and mentored 4 engineers to join the team. In 2020 Assess product unblocked over 1.5
             million candidates, 96.5% of those people were determined to be Eligible by Checkr Assess, it
-            lowered our customers adjudication costs by 90% and reduced the adjudication times by 70%.
+            lowered our customers' adjudication costs by 90% and reduced the adjudication times by 70%.
             (my name is mentioned in this article)
             https://checkr.com/blog/how-checkr-assess-can-help-you-convert-more-candidates-through-your-funnel
             https://checkr.com/blog/3-strategies-for-reducing-talent-acquisition-costs
@@ -147,14 +147,14 @@ Open Source Contributions
 		default option for retro compatibility.
 
 	Openkore
-		OpenKore is an custom client and intelligent automated assistant for Ragnarok Online.
+		OpenKore is a custom client and intelligent automated assistant for Ragnarok Online.
 		It is a free, open source and cross-platform program (Linux, Windows and MacOS are supported).
 		I Fixed a bug in the macro system caused by empty matches in the regular expressions.
 
 Interests
 
     I am passionate learner who enjoys studying, sharing my knowledge and teaching programming in my free
-    time, my personal projects on GitHub reflect my diverse interests including electronics, embeded systems,
+    time, my personal projects on GitHub reflect my diverse interests including electronics, embedded systems,
     robotics, home automation, memory competition, rapid maths, soroban, Vim, video games development,
     Chrome extensions, hacking, artificial intelligence, computer vision, 3d printing coding, raspberry pi,
     home self-hosted servers, data logging and many others.
