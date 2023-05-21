@@ -112,7 +112,7 @@ Relevant Projects Details
 			https://www.amazon.com/spark (moved to interests)
 
 	Sep 2011 - Jan 2015
-		Engineer
+		Software Engineer
 		Atakama Labs (studio of DeNA Japan)
 
 			* Star Wars: Galactic Defense
